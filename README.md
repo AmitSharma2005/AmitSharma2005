@@ -89,7 +89,7 @@
 
   - Summer internship in Cybersecurity field under GrasTECH.
   - 2 months training in Linux.
-  - Build my 'SAY' encryption & decryption project under this internship.
+  - Performed Malware Analysis in a Virtual Machine under this internship.
   - certif( shared below ).
     
     
@@ -127,7 +127,7 @@
       <div class="p-4">
         <h3 class="text-lg font-bold mb-2">4. CyberSecuity</h3>
         <p class="text-sm text-gray-600">-Issued by GrasTECH</p>
-      <img src="" alt="Deep Learning Specialization" class="w-full">
+      <img src="https://github.com/AmitSharma2005/AmitSharma2005/blob/0ef8cb4748b8c9910600fa5f1d82c0ffb70ac859/Internship_certificate.jpeg" alt="Deep Learning Specialization" class="w-full">
         <hr>
       </div>
     </div>

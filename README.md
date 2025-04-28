@@ -118,7 +118,7 @@
       <div class="p-4">
         <h3 class="text-lg font-bold mb-2">2. Completion of C++</h3>
         <p class="text-sm text-gray-600">-Issued by UDEMY</p>
-      <img src="" alt="Machine Learning Certification" class="w-full">
+      <img src="https://github.com/AmitSharma2005/AmitSharma2005/blob/e5f64723cd7255646bfc2ca2f01c671ad4391314/c%2B%2B_Certificate.jpg" alt="Machine Learning Certification" class="w-full">
         <hr>
       </div>
     </div>

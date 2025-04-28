@@ -68,7 +68,7 @@
 - Visualizes sales trends via HTML, CSS, JavaScript (ReactJS) dashboard.
 - Detects system issues with JavaScript, sending alerts for failures.
 
-
+---
 
 ###
 
@@ -77,10 +77,6 @@
 <img src="https://raw.githubusercontent.com/AmitSharma2005/AmitSharma2005/output/snake.svg" alt="Snake animation" />
 
 ###
-
-
-
-
 
 
 ---

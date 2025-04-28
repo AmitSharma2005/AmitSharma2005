@@ -61,10 +61,14 @@
 - Sends real-time alerts to security teams.
 
 
+
+
 ### 🔹**Shop-monitoring-System**
 - Monitors stock and sales in real-time using barcode scanners, with MySQL for alerts and reports.
 - Visualizes sales trends via HTML, CSS, JavaScript (ReactJS) dashboard.
 - Detects system issues with JavaScript, sending alerts for failures.
+
+
 
 ---
 ## 🚀 Experience

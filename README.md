@@ -54,7 +54,7 @@
 
 ## 🏆 Projects
 
-<img align="right" alt="coding" width=300 height=350 boder-radius=10 src="https://i.pinimg.com/originals/83/4f/38/834f3887bde180c0d471f00389466b9c.gif">
+<img align="right" alt="coding" width=250 height=300 boder-radius=10 src="https://i.pinimg.com/originals/83/4f/38/834f3887bde180c0d471f00389466b9c.gif">
 
 ### 🔹 **Observo - AI-Based Violence Detection System**
 - Detects violent activities using CCTV footage 

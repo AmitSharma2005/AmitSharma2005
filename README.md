@@ -70,6 +70,19 @@
 
 
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/AmitSharma2005/AmitSharma2005/output/snake.svg" alt="Snake animation" />
+
+###
+
+
+
+
+
+
 ---
 ## 🚀 Experience
 

@@ -122,15 +122,8 @@
         <hr>
       </div>
     </div>
-    <div class="certificate">
-      <div class="p-4">
-        <h3 class="text-lg font-bold mb-2">3. GitHUB & Kaggle Workshop</h3>
-        <p class="text-sm text-gray-600">-Issued by TechSPHERE</p>
-      <img src="" alt="Deep Learning Specialization" class="w-full">
-        <hr>
-      </div>
-    </div>
-    <div class="certificate">
+    
+<div class="certificate">
       <div class="p-4">
         <h3 class="text-lg font-bold mb-2">4. CyberSecuity</h3>
         <p class="text-sm text-gray-600">-Issued by GrasTECH</p>
